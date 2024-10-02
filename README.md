@@ -24,15 +24,6 @@
 
 ---
 
-## Projects
-
-- [Webflow JS Template](https://github.com/mirkotrotta/webflow-js-template)  
-- [Streamlit Web Scraper](https://github.com/mirkotrotta/streamlit_web_scraper)  
-- [Dropbox URL Converter](https://github.com/mirkotrotta/dropbox-url-converter)  
-- [Invoice Generator](https://github.com/mirkotrotta/InvoiceGenerator)
-
----
-
 ## GitHub Stats
 
 ![Mirko's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirkotrotta&show_icons=true&count_private=true&hide_title=true&theme=dark&bg_color=0d1117&hide=contribs,prs)
