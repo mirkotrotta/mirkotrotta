@@ -74,6 +74,12 @@ These are early-stage learning tools to understand prompt coordination and autom
 
 ## GitHub Stats
 
+<!-- GitHub Contribution Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mirkotrotta/snk/manual-run-output/only-svg/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+</p>
+
+<br />
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mirkotrotta&show_icons=true&count_private=true&hide_title=true&theme=dark&bg_color=0d1117" alt="GitHub Stats" />
 </p>
