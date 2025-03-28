@@ -76,7 +76,7 @@ These are early-stage learning tools to understand prompt coordination and autom
 
 <!-- GitHub Contribution Snake Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mirkotrotta/snk/manual-run-output/only-svg/github-contribution-dark-snake.svg" alt="GitHub Snake" />
+  <img src="https://raw.githubusercontent.com/mirkotrotta/snk/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
 </p>
 
 <br />
