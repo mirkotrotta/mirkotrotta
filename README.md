@@ -100,6 +100,10 @@ Currently based in Germany — multilingual, reliable, and building the long gam
 
 ---
 
+[![Blog](https://img.shields.io/badge/Blog-Coming%20Soon-yellow.svg)](https://mirkotrotta.com)
+
+---
+
 <br />
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mirkotrotta&theme=darkhub&no-frame=true&no-bg=true" alt="GitHub Trophies" />
