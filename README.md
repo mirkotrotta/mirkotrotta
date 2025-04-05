@@ -44,34 +44,6 @@ With a background in digital production and UX design, I bring a **system-thinki
 
 ---
 
-## Projects
-
-### `carbon-personal-site` (in progress, private)
-> My personal site and portfolio — built with **Next.js 14**, **Strapi v3**, **PostgreSQL**, and **Docker**  
-> Features include: dynamic API rendering, i18n routing, CMS integration, and localStorage-based theme control  
-> Planned deployment to **Azure** using **CI/CD via GitHub Actions**
-
-### `streamlit_web_scraper`
-[View Repo](https://github.com/mirkotrotta/streamlit_web_scraper)  
-A practical tool to scrape and save readable content from websites into Markdown.  
-Built with **Python**, **Selenium**, **Streamlit**, and **SQLite**. Useful for personal research and AI workflows.
-
-### CrewAI / Multi-Agent Experiments (WIP)
-Private experiments using **CrewAI**, **LangChain**, and Python for simple task orchestration and AI agent workflows.  
-These are early-stage learning tools to understand prompt coordination and automation behavior.
-
----
-
-## Current Focus
-
-- Preparing for **AZ-900 (Azure Fundamentals)**  
-- Building deployment workflows on **Azure**  
-- Migrating Strapi content structure to **v4**  
-- Improving debugging, testing, and project structure  
-- Growing long-term toward a **DevOps + automation track**
-
----
-
 ## GitHub Stats
 
 <!-- GitHub Contribution Snake Animation -->
