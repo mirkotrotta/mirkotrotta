@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mirko Trotta</h1>
-<h3 align="center">Full Stack Developer · Frontend-Focused · Building Content Systems & Cloud-Ready Workflows</h3>
+<h3 align="center">Full Stack Developer — React, Python, Automation</h3>
 
 <p align="center">
   <a href="https://www.mirkotrotta.com" target="_blank">Portfolio</a> • 
@@ -9,74 +9,60 @@
 
 ---
 
-## About Me
+## About
 
-I’m a full stack developer with a strong focus on frontend systems, content platforms, and DevOps fundamentals.  
-Currently working on real-world projects using **Next.js**, **TypeScript**, **Strapi**, **PostgreSQL**, **Docker**, and **GitHub Actions**.
+I'm a full stack developer focused on backend workflows, frontend architecture, and developer automation.  
+Tools I use daily: `Python`, `FastAPI`, `React`, `Docker`, and `Azure`.
 
-With a background in digital production and UX design, I bring a **system-thinking mindset**, a structured workflow, and a growing interest in **cloud infrastructure and automation**. I’m preparing for the **AZ-900 certification** and deploying projects to **Azure** to expand my cloud skill set.
+Started from creative tech, now deep into building APIs, web systems, and agent-based automations.
 
 ---
 
-## Tech Stack
+## Stack
 
 ### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![IBM Carbon](https://img.shields.io/badge/Carbon%20Design-161616?style=flat-square&logo=ibm)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
 
-### Backend & CMS
-![Strapi](https://img.shields.io/badge/Strapi-v3-4945FF?style=flat-square&logo=strapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql)
-![REST API](https://img.shields.io/badge/API-02569B?style=flat-square&logo=apachespark)
-
-### Tooling & Automation
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions)
-![WSL](https://img.shields.io/badge/WSL-Ubuntu--22.04-orange?style=flat-square&logo=linux)
-![pnpm](https://img.shields.io/badge/pnpm-222222?style=flat-square&logo=pnpm)
-
-### Cloud & AI (In Progress)
-![Azure](https://img.shields.io/badge/AZ--900%20%7C%20Studying-0078D4?style=flat-square&logo=microsoftazure)
+### Backend & APIs
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
-![CrewAI](https://img.shields.io/badge/CrewAI--Agent%20Automation-orange?style=flat-square&logo=autogen)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
+![REST API](https://img.shields.io/badge/REST-02569B?style=flat-square&logo=apachespark)
+![Pydantic](https://img.shields.io/badge/Pydantic-4B8BBE?style=flat-square&logo=python)
+
+### Infra & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu%2FKali-E95420?style=flat-square&logo=linux)
+
+### AI & Automation
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai)
+![LangChain](https://img.shields.io/badge/LangChain-006400?style=flat-square&logo=python)
+![CrewAI](https://img.shields.io/badge/CrewAI-Agent-orange?style=flat-square&logo=autogen)
 
 ---
 
-## GitHub Stats
+## Projects
 
-<!-- GitHub Contribution Snake Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mirkotrotta/snk/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
-</p>
+- **[Moon Site](https://github.com/mirkotrotta/moon-site)**  
+  Full stack portfolio boilerplate (`Next.js`, `Tailwind`, `MDX`, `FastAPI`, `Docker`)
 
-<br />
+- **[Streamlit Web Scraper](https://github.com/mirkotrotta/streamlit_web_scraper)**  
+  Markdown extraction tool for research workflows (`Python`, `Selenium`, `SQLite`, `Slack API`)
+
+- **[Dropbox URL Converter](https://github.com/mirkotrotta/dropbox-url-converter)**  
+  Converts Dropbox video links into embeddable formats (`React`, `Vercel`)
+
+---
+
+## Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mirkotrotta&show_icons=true&count_private=true&hide_title=true&theme=dark&bg_color=0d1117" alt="GitHub Stats" />
 </p>
 
 ---
 
-## Collaboration
-
-I’m always open to connecting with professionals working on:
-
-- Content platforms and headless CMS tools  
-- Frontend-focused products and internal tools  
-- Teams exploring DevOps workflows or automation  
-
-Reach out on [LinkedIn](https://www.linkedin.com/in/mirkotrotta)  
-Or visit [mirkotrotta.com](https://www.mirkotrotta.com)  
-Currently based in Germany — multilingual, reliable, and building the long game
-
----
-
-[![Blog](https://img.shields.io/badge/Blog-Coming%20Soon-yellow.svg)](https://mirkotrotta.com)
-
----
-
-<br />
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mirkotrotta&theme=darkhub&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-</p>
