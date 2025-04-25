@@ -11,10 +11,9 @@
 
 ## About
 
-I'm a full stack developer focused on backend workflows, frontend architecture, and developer automation.  
-Tools I use daily: `Python`, `FastAPI`, `React`, `Docker`, and `Azure`.
+Full stack developer with a creative background, strong in UI, API integration, and automation. Skilled in Next.js, TypeScript, Python, and FastAPI, with growing cloud experience in Azure and GitHub Actions. Practical, self-taught, and focused on building clear, scalable solutions.  
 
-Started from creative tech, now deep into building APIs, web systems, and agent-based automations.
+Tools I use daily: `Python`, `FastAPI`, `React`, `Docker`, and `Azure`.
 
 ---
 
