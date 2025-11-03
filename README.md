@@ -13,7 +13,7 @@ Expanding Azure experience through certification and lab deployments.
 
 **Selected projects**  
 - [Moon Site](https://github.com/mirkotrotta/moon-site) — Next.js 14 + FastAPI · Dockerized · CI/CD  
-- [Streamlit Web Scraper](https://github.com/mirkotrotta/streamlit_web_scraper) — Markdown extraction · Python + Selenium + Slack  
+- [Cube Web Scraper](https://github.com/mirkotrotta/streamlit_web_scraper) — Markdown extraction · Python + Selenium + Slack  
 - [Dropbox URL Converter](https://github.com/mirkotrotta/dropbox-url-converter) — Convert Dropbox links to embeddable players  
 
 **Stack:**  
