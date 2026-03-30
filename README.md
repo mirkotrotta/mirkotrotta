@@ -1,20 +1,21 @@
-# Mirko Trotta
-Full-Stack Developer · React · Python · DevOps
+> In an AI world, agency belongs to those who make work legible, systems trustworthy, and proof shippable. Without surrendering judgment to the machine.
 
-[Portfolio](https://www.mirkotrotta.com) · [LinkedIn](https://www.linkedin.com/in/mirkotrotta) · [GitHub](https://github.com/mirkotrotta)  
+I build systems for a world where capability is becoming unevenly distributed.
+Software, automation, AI, and the discipline required to make them legible, trustworthy, and real.
 
-[![AZ-900: Microsoft Azure Fundamentals](https://img.shields.io/badge/AZ--900-Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white&style=flat-square)](https://learn.microsoft.com/api/credentials/share/en-gb/MirkoTrotta-6412/2F75E425082261F7?sharingId=2974A81A57D97865)
+Based in Germany. Working at Santana. Building in parallel.
 
-**Profile:**  
-Ship production apps with **Next.js/React**, **Python/FastAPI**, and **PostgreSQL**.  
-CI/CD pipelines with **Docker** and **GitHub Actions** on **Hetzner Cloud**.  
-Operate **n8n** automations and hardened **Linux** stacks.  
-Expanding Azure experience through certification and lab deployments.
+![React](https://img.shields.io/badge/React-1f2937?style=flat&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-1f2937?style=flat&logo=python&logoColor=3776AB)
+![Next.js](https://img.shields.io/badge/Next.js-1f2937?style=flat&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-1f2937?style=flat&logo=fastapi&logoColor=00C7B7)
+![Sanity](https://img.shields.io/badge/Sanity-1f2937?style=flat&logo=sanity&logoColor=F03E2F)
+![TypeScript](https://img.shields.io/badge/TypeScript-1f2937?style=flat&logo=typescript&logoColor=3178C6)
+![n8n](https://img.shields.io/badge/n8n-1f2937?style=flat&logo=n8n&logoColor=EA4B71)
+![AI Engineering](https://img.shields.io/badge/AI%20Engineering-1f2937?style=flat)
 
-**Selected projects**  
-- [Moon Site](https://github.com/mirkotrotta/moon-site) — Next.js 14 + FastAPI · Dockerized · CI/CD  
-- [Cube Web Scraper](https://github.com/mirkotrotta/streamlit_web_scraper) — Markdown extraction · Python + Selenium + Slack  
-- [Dropbox URL Converter](https://github.com/mirkotrotta/dropbox-url-converter) — Convert Dropbox links to embeddable players  
-
-**Stack:**  
-`Next.js` · `React` · `TypeScript` · `Python` · `FastAPI` · `PostgreSQL` · `Docker` · `GitHub Actions` · `Linux` · `Hetzner Cloud` · `n8n` · `Azure (labs)`
+## Elsewhere
+[![Website](https://img.shields.io/badge/Website-mirkotrotta.com-1f2937?style=flat&logo=googlechrome&logoColor=white)](https://mirkotrotta.com/en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mirkotrotta-1f2937?style=flat&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/mirkotrotta)
+[![X](https://img.shields.io/badge/X-@mirkotrotta-1f2937?style=flat&logo=x&logoColor=white)](https://x.com/mirkotrotta)
+[![Email](https://img.shields.io/badge/Email-hello@mirkotrotta.com-1f2937?style=flat&logo=gmail&logoColor=EA4335)](mailto:hello@mirkotrotta.com)
